@@ -2,7 +2,7 @@
 
 Prueba interactiva desarrollada por la [Universidad Nacional De Colombia](https://uninscripciones.unal.edu.co/dipa/), para uso práctico a medida que vayan avanzando en los temas de estudio. [Universidad Nacional De Colombia (unal.edu.co)](https://uninscripciones.unal.edu.co/dipa/)
 
-Autor: [https://github.com/DuvanArwenLazar](https://github.com/DuvanArwenLazar)
+Autor: [Duvan Espinal Arboleda](https://github.com/DuvanArwenLazar)
 
 ## Índice
 
